@@ -7,7 +7,7 @@
 
 #define MODULESTR "cv2"
 #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
-#include <numpy/ndarrayobject.h>
+#include <ndarrayobject.h>
 
 #include "pyopencv_generated_include.h"
 #include "opencv2/core/types_c.h"
